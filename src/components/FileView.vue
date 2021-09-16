@@ -1,5 +1,8 @@
 <template>
-  <p class="file">{{name}}</p>
+  <p class="file">
+    <i class="fas fa-file"></i>
+    {{name}}
+  </p>
 </template>
 
 <script>
